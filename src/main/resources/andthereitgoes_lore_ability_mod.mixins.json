@@ -9,5 +9,5 @@
   },
   "overwrites": {
     "requireAnnotations": true
-  }, "client": ["FogRendererMixin", "GameRendererMixin"]
+  }, "client": ["FogRendererMixin"]
 }
