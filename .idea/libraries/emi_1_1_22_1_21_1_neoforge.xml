@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="emi-1.1.22+1.21.1+neoforge">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/run/mods/emi-1.1.22+1.21.1+neoforge.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="emixx-neoforge-1.2.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/run/mods/emixx-neoforge-1.2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
